@@ -1,0 +1,4 @@
+Titulo: Verificando a performance de queries Mysql com explain
+Descrição: Conteudo que aborda sobre a perfomance de queries no mysql e como analisar.
+Tags: Banco de Dados; MySQL: Performance; explain
+
