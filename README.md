@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Formulários no ReactJS com Formik & Yup
+# Verificar a performance das queries em MySQL usando Explain
 
 Verificar a performance das queries em MySQL usando o comando explain.
 
