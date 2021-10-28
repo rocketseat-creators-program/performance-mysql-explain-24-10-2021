@@ -8,6 +8,6 @@ Nesse vídeo vamos utilizar o comando explain, para verificar como está o plano
 
 ## Expert
 
-| [<img src="https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="75px;"/>](https://github.com/jfelixdba) |
+| [<img src="https://avatars.githubusercontent.com/u/49099909?v=4" width="75px;"/>](https://github.com/jfelixdba) |
 | :-: |
 |[Jéssica Felix](https://github.com/jfelixdba)|
